@@ -2,3 +2,10 @@
 @tailwind utilities;
 @tailwind variants;
 @tailwind components;
+
+
+@layer {
+      label {
+            @apply  text-lg
+      }
+}
