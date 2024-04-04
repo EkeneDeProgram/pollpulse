@@ -19,7 +19,7 @@ function App() {
       path: "/success", element: <Success />
     },
     {
-      path: "/upcommingelections", element: <UpComingElection />
+      path: "/upcoming-elections", element: <UpComingElection />
     }
   ])
 
